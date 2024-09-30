@@ -1,5 +1,5 @@
 {
-  "name": "em2px-cli",
+  "name": "e2pc",
   "version": "1.0.0",
   "description": "em to px in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/em2px-cli.git"
+    "url": "https://github.com/love1ace/e2pc.git"
   },
   "keywords": [
     "em",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/em2px-cli/issues"
+    "url": "https://github.com/love1ace/e2pc/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/em2px-cli#readme",
+  "homepage": "https://github.com/love1ace/e2pc#readme",
   "bin": {
-    "em2px-cli": "index.js"
+    "e2pc": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},

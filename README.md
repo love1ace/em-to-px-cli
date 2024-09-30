@@ -1,17 +1,17 @@
-# em2px-cli
+# e2pc
 
-**em2px-cli** is a CLI tool that converts em units to pixels (px).
+**e2pc** is a CLI tool that converts em units to pixels (px).
 
-![npm](https://img.shields.io/npm/v/em2px-cli)
-![license](https://img.shields.io/npm/l/em2px-cli)
+![npm](https://img.shields.io/npm/v/e2pc)
+![license](https://img.shields.io/npm/l/e2pc)
 
 ## Quick Start
 
-Get **em2px-cli** up and running quickly!
+Get **e2pc** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx em2px-cli 2
+    npx e2pc 2
     ```
 2. **Done!**
 
@@ -21,14 +21,14 @@ Get **em2px-cli** up and running quickly!
 - You can change the base font size by adding a second argument:
 
     ```bash
-    npx em2px-cli 2 18
+    npx e2pc 2 18
     ```
 
 This will convert `2em` to pixels using the base font size of `18px`.
 
 ## Contributing
 
-We welcome contributions to **em2px-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **e2pc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

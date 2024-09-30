@@ -1,0 +1,38 @@
+{
+  "name": "em2px-cli",
+  "version": "1.0.0",
+  "description": "em to px in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/em2px-cli.git"
+  },
+  "keywords": [
+    "em",
+    "px",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/em2px-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/em2px-cli#readme",
+  "bin": {
+    "em2px-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
